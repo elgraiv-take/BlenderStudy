@@ -1,1 +1,1 @@
-# BlenderStudy
+Blender勉強会のために作ったサンプルコードとか
